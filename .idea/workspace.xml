@@ -1,7 +1,22 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="a420346f-632d-48ad-993a-74d424139509" name="Default Changelist" comment="" />
+    <list default="true" id="a420346f-632d-48ad-993a-74d424139509" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/src/main/resources/checkstyle.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarIssues.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarIssues.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/0/2/02288f43311714e350641d7be11a1ad8b0c893cb" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/0/2/02288f43311714e350641d7be11a1ad8b0c893cb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/0/6/06a1b6f9774585510f2c5173618f1248dd83281d" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/0/6/06a1b6f9774585510f2c5173618f1248dd83281d" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/b/b/bb19ed231b7785b454b1bb71618b76fcaa03e243" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/index.pb" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/index.pb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/ua/lviv/iot/seventhLab/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/ua/lviv/iot/seventhLab/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/ua/lviv/iot/seventhLab/StringProcessor.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/ua/lviv/iot/seventhLab/StringProcessor.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/StringProcessorTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/ua/lviv/iot/seventhLab/StringProcessorTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/ua/lviv/iot/seventhLab/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/ua/lviv/iot/seventhLab/Main.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/ua/lviv/iot/seventhLab/StringProcessor.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/ua/lviv/iot/seventhLab/StringProcessor.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/StringProcessorTest.class" beforeDir="false" />
+    </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -36,36 +51,34 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/ua/lviv/iot/seventhLab/StringProcessor.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="153">
-              <caret line="9" column="34" selection-start-line="9" selection-start-column="34" selection-end-line="9" selection-end-column="34" />
+            <state relative-caret-position="221">
+              <caret line="14" selection-start-line="14" selection-end-line="14" />
               <folding>
                 <element signature="imports" expanded="true" />
-                <element signature="e#1190#1191#0" expanded="true" />
-                <element signature="e#1237#1238#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/test/java/StringProcessorTest.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="204">
-              <caret line="12" column="88" selection-start-line="12" selection-start-column="21" selection-end-line="12" selection-end-column="88" />
-              <folding>
-                <element signature="imports" expanded="true" />
-                <element signature="e#228#229#0" expanded="true" />
-                <element signature="e#325#326#0" expanded="true" />
+                <element signature="e#1155#1156#0" expanded="true" />
+                <element signature="e#1197#1198#0" expanded="true" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/ua/lviv/iot/seventhLab/Main.java">
+        <entry file="file://$PROJECT_DIR$/src/test/java/ua/lviv/iot/seventhLab/StringProcessorTest.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="178">
-              <caret line="12" column="47" lean-forward="true" selection-start-line="12" selection-start-column="47" selection-end-line="12" selection-end-column="47" />
+            <state relative-caret-position="204">
+              <caret line="18" column="9" selection-start-line="18" selection-start-column="9" selection-end-line="18" selection-end-column="9" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/resources/checkstyle.xml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="1632">
+              <caret line="96" column="21" selection-start-line="96" selection-start-column="21" selection-end-line="96" selection-end-column="21" />
             </state>
           </provider>
         </entry>
@@ -73,8 +86,17 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/pom.xml">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="323">
-              <caret line="19" column="24" selection-start-line="19" selection-start-column="24" selection-end-line="19" selection-end-column="24" />
+            <state relative-caret-position="153">
+              <caret line="9" selection-start-line="9" selection-end-line="9" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/main/java/ua/lviv/iot/seventhLab/Main.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="374">
+              <caret line="22" lean-forward="true" selection-start-line="22" selection-end-line="22" />
             </state>
           </provider>
         </entry>
@@ -88,6 +110,10 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="ROOT_SYNC" value="DONT_SYNC" />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
@@ -96,12 +122,24 @@
         <option value="$PROJECT_DIR$/src/main/java/ua/lviv/iot/seventhLab/TextOperator.java" />
         <option value="$PROJECT_DIR$/src/main/java/ua/lviv/iot/seventhLab/Palindrome.java" />
         <option value="$PROJECT_DIR$/src/main/java/ua/lviv/iot/seventhLab/GFC.java" />
-        <option value="$PROJECT_DIR$/src/main/java/ua/lviv/iot/seventhLab/Main.java" />
-        <option value="$PROJECT_DIR$/pom.xml" />
-        <option value="$PROJECT_DIR$/src/main/java/ua/lviv/iot/seventhLab/StringProcessor.java" />
         <option value="$PROJECT_DIR$/src/test/java/StringProcessorTest.java" />
+        <option value="$PROJECT_DIR$/src/main/java/ua/lviv/iot/seventhLab/Main.java" />
+        <option value="$PROJECT_DIR$/src/main/java/ua/lviv/iot/seventhLab/StringProcessor.java" />
+        <option value="$PROJECT_DIR$/pom.xml" />
+        <option value="$PROJECT_DIR$/src/main/resources/checkstyle.xml" />
       </list>
     </option>
+  </component>
+  <component name="MavenProjectNavigator">
+    <treeState>
+      <expand>
+        <path>
+          <item name="" type="16c1761:MavenProjectsStructure$RootNode" />
+          <item name="work" type="9519ce18:MavenProjectsStructure$ProjectNode" />
+        </path>
+      </expand>
+      <select />
+    </treeState>
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
     <option name="x" value="-8" />
@@ -115,6 +153,7 @@
     </navigator>
     <panes>
       <pane id="PackagesPane" />
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -152,6 +191,13 @@
               <item name="seventhLab" type="b2602c69:ProjectViewProjectNode" />
               <item name="seventhLab" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="resources" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="seventhLab" type="b2602c69:ProjectViewProjectNode" />
+              <item name="seventhLab" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="test" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
@@ -161,24 +207,41 @@
               <item name="test" type="462c0819:PsiDirectoryNode" />
               <item name="java" type="462c0819:PsiDirectoryNode" />
             </path>
+            <path>
+              <item name="seventhLab" type="b2602c69:ProjectViewProjectNode" />
+              <item name="seventhLab" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="seventhLab" type="462c0819:PsiDirectoryNode" />
+            </path>
           </expand>
           <select />
         </subPane>
       </pane>
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1552857354330" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1553472324284" />
     <property name="last_directory_selection" value="$PROJECT_DIR$/src/main/java" />
+    <property name="last_opened_file_path" value="C:/projects/db-sample" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
     <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.2" />
-    <property name="settings.editor.selected.configurable" value="configurable.group.appearance" />
+    <property name="settings.editor.selected.configurable" value="vcs.Git" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
+      <recent name="ua.lviv.iot.seventhLab" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\Admin\IdeaProjects\seventhLab\src\main\resources" />
+      <recent name="C:\Users\Admin\IdeaProjects\seventhLab" />
+    </key>
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -192,7 +255,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.Main">
+  <component name="RunManager" selected="JUnit.All in seventhLab">
     <configuration name="GFG" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="ua.lviv.iot.seventhLab.GFG" />
       <module name="seventhLab" />
@@ -219,7 +282,7 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="All in seventhLab" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="All in seventhLab" type="JUnit" factoryName="JUnit" nameIsGenerated="true">
       <module name="seventhLab" />
       <option name="PACKAGE_NAME" value="" />
       <option name="TEST_OBJECT" value="package" />
@@ -229,8 +292,8 @@
     </configuration>
     <configuration name="StringProcessorTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="seventhLab" />
-      <option name="PACKAGE_NAME" value="" />
-      <option name="MAIN_CLASS_NAME" value="StringProcessorTest" />
+      <option name="PACKAGE_NAME" value="ua.lviv.iot.seventhLab" />
+      <option name="MAIN_CLASS_NAME" value="ua.lviv.iot.seventhLab.StringProcessorTest" />
       <option name="TEST_OBJECT" value="class" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -238,8 +301,8 @@
     </configuration>
     <configuration name="StringProcessorTest.testRemoveNonPalindromes" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="seventhLab" />
-      <option name="PACKAGE_NAME" value="" />
-      <option name="MAIN_CLASS_NAME" value="StringProcessorTest" />
+      <option name="PACKAGE_NAME" value="ua.lviv.iot.seventhLab" />
+      <option name="MAIN_CLASS_NAME" value="ua.lviv.iot.seventhLab.StringProcessorTest" />
       <option name="METHOD_NAME" value="testRemoveNonPalindromes" />
       <option name="TEST_OBJECT" value="method" />
       <method v="2">
@@ -249,7 +312,6 @@
     <recent_temporary>
       <list>
         <item itemvalue="Application.Main" />
-        <item itemvalue="JUnit.All in seventhLab" />
         <item itemvalue="JUnit.StringProcessorTest.testRemoveNonPalindromes" />
         <item itemvalue="JUnit.StringProcessorTest" />
         <item itemvalue="Application.GFG" />
@@ -268,48 +330,56 @@
       <updated>1552776579337</updated>
       <workItem from="1552776583743" duration="2702000" />
       <workItem from="1552820643120" duration="21070000" />
+      <workItem from="1552892506310" duration="71000" />
+      <workItem from="1552905558274" duration="5761000" />
+      <workItem from="1552911560627" duration="26000" />
+      <workItem from="1553468950214" duration="3291000" />
+      <workItem from="1553472377654" duration="853000" />
+      <workItem from="1553495814263" duration="2301000" />
+      <workItem from="1553501897735" duration="712000" />
     </task>
     <servers />
   </component>
   <component name="TestHistory">
-    <history-entry file="StringProcessorTest_testRemoveNonPalindromes - 2019.03.17 at 22h 43m 20s.xml">
-      <configuration name="StringProcessorTest.testRemoveNonPalindromes" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="StringProcessorTest_testRemoveNonPalindromes - 2019.03.17 at 22h 44m 44s.xml">
-      <configuration name="StringProcessorTest.testRemoveNonPalindromes" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="StringProcessorTest_testRemoveNonPalindromes - 2019.03.17 at 22h 45m 26s.xml">
-      <configuration name="StringProcessorTest.testRemoveNonPalindromes" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="StringProcessorTest_testRemoveNonPalindromes - 2019.03.17 at 22h 45m 47s.xml">
-      <configuration name="StringProcessorTest.testRemoveNonPalindromes" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="All_in_seventhLab - 2019.03.17 at 22h 46m 53s.xml">
+    <history-entry file="All_in_seventhLab - 2019.03.18 at 14h 01m 53s.xml">
       <configuration name="All in seventhLab" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="All_in_seventhLab - 2019.03.17 at 22h 50m 57s.xml">
+    <history-entry file="All_in_seventhLab - 2019.03.18 at 14h 13m 58s.xml">
       <configuration name="All in seventhLab" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="All_in_seventhLab - 2019.03.17 at 23h 01m 27s.xml">
+    <history-entry file="All_in_seventhLab - 2019.03.25 at 01h 12m 39s.xml">
       <configuration name="All in seventhLab" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="All_in_seventhLab - 2019.03.17 at 23h 02m 17s.xml">
+    <history-entry file="All_in_seventhLab - 2019.03.25 at 01h 16m 28s.xml">
       <configuration name="All in seventhLab" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="All_in_seventhLab - 2019.03.17 at 23h 09m 15s.xml">
+    <history-entry file="All_in_seventhLab - 2019.03.25 at 01h 43m 11s.xml">
       <configuration name="All in seventhLab" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="All_in_seventhLab - 2019.03.17 at 23h 15m 21s.xml">
+    <history-entry file="All_in_seventhLab - 2019.03.25 at 02h 09m 16s.xml">
+      <configuration name="All in seventhLab" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="All_in_seventhLab - 2019.03.25 at 02h 13m 59s.xml">
+      <configuration name="All in seventhLab" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="All_in_seventhLab - 2019.03.25 at 08h 48m 17s.xml">
+      <configuration name="All in seventhLab" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="All_in_seventhLab - 2019.03.25 at 08h 54m 51s.xml">
+      <configuration name="All in seventhLab" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="All_in_seventhLab - 2019.03.25 at 08h 58m 48s.xml">
       <configuration name="All in seventhLab" configurationId="JUnit" />
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="23772000" />
+    <option name="totallyTimeSpent" value="36787000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
+    <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.25340393" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.2806354" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Designer" order="2" />
       <window_info id="Image Layers" order="3" />
@@ -338,11 +408,11 @@
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="1" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="2" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="3" weight="0.25" />
-      <window_info anchor="right" id="Maven" order="4" />
-      <window_info anchor="right" id="Palette" order="5" />
-      <window_info anchor="right" id="Capture Analysis" order="6" />
-      <window_info anchor="right" id="Palette&#9;" order="7" />
-      <window_info anchor="right" id="Theme Preview" order="8" />
+      <window_info anchor="right" id="Palette" order="4" />
+      <window_info anchor="right" id="Capture Analysis" order="5" />
+      <window_info anchor="right" id="Palette&#9;" order="6" />
+      <window_info anchor="right" id="Theme Preview" order="7" />
+      <window_info anchor="right" id="Maven" order="8" weight="0.32980332" />
       <window_info anchor="right" id="Database" order="9" weight="0.32980332" />
     </layout>
   </component>
@@ -350,27 +420,7 @@
     <option name="version" value="1" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/main/java/ua/lviv/iot/seventhLab/StringProcessor.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret column="25" selection-start-column="25" selection-end-column="25" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/ua/lviv/iot/seventhLab/GFC.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="201">
-          <caret line="24" selection-start-line="24" selection-end-line="24" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/pom.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="323">
-          <caret line="19" column="24" selection-start-line="19" selection-start-column="24" selection-end-line="19" selection-end-column="24" />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/ua/lviv/iot/seventhLab/GFC.java" />
     <entry file="jar://C:/Program Files/Java/jdk-11.0.2/lib/src.zip!/java.base/java/util/ArrayList.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="20227">
@@ -378,34 +428,47 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/ua/lviv/iot/seventhLab/Main.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="178">
-          <caret line="12" column="47" lean-forward="true" selection-start-line="12" selection-start-column="47" selection-end-line="12" selection-end-column="47" />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/target/test-classes/StringProcessorTest.class" />
     <entry file="file://$PROJECT_DIR$/src/main/java/ua/lviv/iot/seventhLab/StringProcessor.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="153">
-          <caret line="9" column="34" selection-start-line="9" selection-start-column="34" selection-end-line="9" selection-end-column="34" />
+        <state relative-caret-position="221">
+          <caret line="14" selection-start-line="14" selection-end-line="14" />
           <folding>
             <element signature="imports" expanded="true" />
-            <element signature="e#1190#1191#0" expanded="true" />
-            <element signature="e#1237#1238#0" expanded="true" />
+            <element signature="e#1155#1156#0" expanded="true" />
+            <element signature="e#1197#1198#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/StringProcessorTest.java">
+    <entry file="file://$PROJECT_DIR$/src/test/java/ua/lviv/iot/seventhLab/StringProcessorTest.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="204">
-          <caret line="12" column="88" selection-start-line="12" selection-start-column="21" selection-end-line="12" selection-end-column="88" />
+          <caret line="18" column="9" selection-start-line="18" selection-start-column="9" selection-end-line="18" selection-end-column="9" />
           <folding>
             <element signature="imports" expanded="true" />
-            <element signature="e#228#229#0" expanded="true" />
-            <element signature="e#325#326#0" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/resources/checkstyle.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1632">
+          <caret line="96" column="21" selection-start-line="96" selection-start-column="21" selection-end-line="96" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="153">
+          <caret line="9" selection-start-line="9" selection-end-line="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/ua/lviv/iot/seventhLab/Main.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="374">
+          <caret line="22" lean-forward="true" selection-start-line="22" selection-end-line="22" />
         </state>
       </provider>
     </entry>
@@ -486,6 +549,7 @@
       </state>
       <state key="ProjectLibrariesConfigurable.UI">
         <settings>
+          <last-edited>Maven: org.apiguardian:apiguardian-api:1.0.0</last-edited>
           <splitter-proportions>
             <option name="proportions">
               <list>

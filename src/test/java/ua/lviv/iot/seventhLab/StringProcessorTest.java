@@ -1,3 +1,5 @@
+package ua.lviv.iot.seventhLab;
+
 import org.junit.jupiter.api.BeforeEach;
 import org.junit.jupiter.api.Test;
 import ua.lviv.iot.seventhLab.StringProcessor;
@@ -15,13 +17,10 @@ public class StringProcessorTest {
 
     @Test
     void testRemoveNonPalindromes() {
-        StringBuilder stringBuilder = new StringBuilder();
         StringProcessor stringProcessor = new StringProcessor();
-        stringProcessor.removeNonPalindromes(inputText);
         String str = stringProcessor.removeNonPalindromes(inputText);
-        stringBuilder.append(str);
 
         assertEquals("I noon mom sagas ",
-                stringProcessor.showResults(stringBuilder), "There is an error in removeNonPalindromes()");
+                str, "There is an error in removeNonPalindromes()");
     }
 }

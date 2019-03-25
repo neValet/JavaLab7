@@ -12,7 +12,8 @@ public class Main {
         try {
             inputText = StringProcessor.readInputText();
             stringProcessor = new StringProcessor();
-            System.out.println(stringProcessor.removeNonPalindromes(inputText));
+            String result = stringProcessor.removeNonPalindromes(inputText);
+            stringProcessor.showResults(result);
         } catch (IOException e) {
             e.printStackTrace();
         }

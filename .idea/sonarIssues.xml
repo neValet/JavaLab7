@@ -3,7 +3,17 @@
   <component name="issues">
     <option name="index">
       <map>
+        <entry key="/Dummy.txt">
+          <value>
+            <set />
+          </value>
+        </entry>
         <entry key="/a.dummy">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../gym/pom.xml">
           <value>
             <set />
           </value>
@@ -48,7 +58,27 @@
             <set />
           </value>
         </entry>
+        <entry key="$PROJECT_DIR$/src/main/resources/checkstyle.xml">
+          <value>
+            <set />
+          </value>
+        </entry>
         <entry key="$PROJECT_DIR$/src/test/java/StringProcessorTest.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/test/java/ua/lviv/iot/seventhLab/StringProcessorTest.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="C:/projects/db-sample/pom.xml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="C:/projects/db-sample/src/main/resources/application.properties">
           <value>
             <set />
           </value>

@@ -10,14 +10,18 @@ public class StringProcessor {
         return scanner.nextLine();
     }
 
-    public boolean isPalindrome(String string) {
+    public boolean isPalindrome(String string) {//зробити брейк, окрему змінну створити, чи вона паліндром
         int i = 0, j = string.length() - 1;
 
+        boolean isPalindrome = true;
+
         while (i < j) {
-            if (string.charAt(i++) != string.charAt(j--))
-                return false;
+            if (string.charAt(i++) != string.charAt(j--)) {
+                isPalindrome = false;
+                break;
+            }
         }
-        return true;
+        return isPalindrome;
     }
 
     public String removeNonPalindromes(String string) {
@@ -30,12 +34,11 @@ public class StringProcessor {
                 stringBuilder.append(outputString[i]).append(" ");
             }
         }
-        return stringBuilder.toString();
+        String text = stringBuilder.toString();
+        return text;
     }
 
-    public String showResults(final StringBuilder stringBuilder) {
-        return stringBuilder.toString();
+    public void showResults(String string) {
+        System.out.println(string);
     }
-
-
 }
